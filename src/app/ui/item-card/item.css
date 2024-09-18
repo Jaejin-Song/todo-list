@@ -1,0 +1,7 @@
+.item-card {
+    border: 1px solid gray;
+    /* width: 128px; */
+    height: 128px;
+    padding: 24px;
+    cursor: pointer;
+}
